@@ -1,5 +1,6 @@
 package Tests;
 
+// кемментарий для того чтобы я мог сделать Pull Request 1.
 import POJO.CreateCourier.CreateCourierRequestPOJO;
 import POJO.CreateCourier.CreateCourierResponsePOJO;
 import POJO.CreateCourier.CreateCourierResponseСonflictPOJO;
