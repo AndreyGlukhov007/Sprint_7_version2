@@ -1,0 +1,8 @@
+POJO\AuthorizationCourier\AuthorizationCourierMessagePOJO.class
+POJO\CreateOrder\CreateOrderResponsePOJO.class
+POJO\AuthorizationCourier\AuthorizationCourierResponsePOJO.class
+POJO\AuthorizationCourier\AuthorizationCourierRequestPOJO.class
+POJO\CreateOrder\CreateOrderRequestPOJO.class
+POJO\CreateCourier\CreateCourierRequestPOJO.class
+POJO\CreateCourier\CreateCourierResponsePOJO.class
+POJO\CreateCourier\CreateCourierResponseСonflictPOJO.class
