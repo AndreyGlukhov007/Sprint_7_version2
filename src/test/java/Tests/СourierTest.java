@@ -37,8 +37,8 @@ public class СourierTest {
     // курьера можно создать;
     // запрос возвращает правильный код ответа;
     @Test
-    public void createСourierCode201() throws InterruptedException {
-        Thread.sleep(1000); // если убрать эту строчку, то данный тест падает через раз.
+    public void createCourierCode201() throws InterruptedException {
+       Thread.sleep(1000); // если убрать эту строчку, то данный тест падает через раз.
        CreateCourierRequestPOJO createCourierPOJO = new CreateCourierRequestPOJO("LoginTest " + getCurrentDateTime(), "qwerty", "firstNameTest " + getCurrentDateTime());
        Response response = RestAssured
                .given()
